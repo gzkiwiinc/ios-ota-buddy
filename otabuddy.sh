@@ -1,11 +1,12 @@
 
 #!/bin/sh
 #
-# Copyright Sveinung Kval Bakken 2012
-# sveinung.bakken@gmail.com
+# Copyright Kiwiinc Team 2015
+# info@kiwiinc.net
 #
 # Please keep this comment, but copy and modify anything below as you want.
-# source: https://github.com/sveinungkb/ios-ota-buddy
+# source: https://github.com/gzkiwiinc/ios-ota-buddy
+# fork from https://github.com/sveinungkb/ios-ota-buddy
 
 provisioning() 
 {
